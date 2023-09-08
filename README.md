@@ -1,4 +1,4 @@
-# Hello, I'm Javier Hernandez, a software architect developer with more than 8 years of experience. 🚀
+# Hello, I'm Javier Hernandez, a software architect with more than 8 years of experience. 🚀
 
 ## My skills and knowledge
 - Proficient in **Java**, **C++** and **Python** programming languages. 💯
