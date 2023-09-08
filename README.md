@@ -9,7 +9,7 @@
 - Interés y experiencia en tecnologías emergentes, como el desarrollo de smart contracts con **Solidity**, **Truffle**, **Ganache**, **Web3.js** y las plataformas blockchain de **Ethereum** y **TON**. 🙌
 
 ## Contacto
-Si quieres saber más sobre mí o mis proyectos, puedes contactarme a través de: 📞
+Si quieres saber más sobre mí o mis proyectos, puedes contactarme a través de:
 
 - https://www.linkedin.com/in/javier-hernandezjh/
 - https://twitter.com/ScaliburTwo
