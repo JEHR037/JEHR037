@@ -13,7 +13,7 @@ If you want to know more about me or my projects, you can contact me via:
 
 - https://www.linkedin.com/in/javier-hernandezjh/
 - https://twitter.com/ScaliburTwo
-- CEOJH@grbcoin.com
+- Erivaxhernandez@gmail.com
 
 
 # Hola, soy Javier Hernandez, un desarrollador arquitecto de software con más de 8 años de experiencia. 🚀
