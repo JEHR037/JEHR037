@@ -1,12 +1,12 @@
 # Hello, I'm Javier Hernandez, a software architect with more than 8 years of experience. 🚀
 
 ## My skills and knowledge
-- Proficient in **Java**, **C++** and **Python** programming languages. 💯
-- Frontend development experience with **JavaScript**, **HTML**, **CSS** and frameworks like **React**, **Angular** or **Vue**. 🌐
-- Experience in backend development with **Node**, **Express**, **PHP** and tools to create and consume **API REST**. 🛠️
+- Proficient in **Rust**, **C#** and **Python** programming languages. 💯
+- Frontend development experience with **Typescript** and frameworks like **React**, **Angular**. 🌐
+- Experience in backend development with **Node**, **Rust**, **Python** and tools to create and consume **API REST**. 🛠️
 - Knowledge of relational (**MySQL**, **PostgreSQL**) and non-relational (**MongoDB**) databases and how to integrate them with the backend. 🔥
 - Knowledge of development best practices, such as the use of **Git** for version control, **Sonar Cube** for code quality and **Jest** for unit testing. ☁️
-- Interest and experience in emerging technologies, such as smart contract development with **Solidity**, **Truffle**, **Ganache**, **Web3.js** and the **Ethereum** and **TON** blockchain platforms. 🙌
+- Interest and experience in emerging technologies, such as smart contract development with **Solidity**, **Web3.js** and the **Ethereum** and **TON** blockchain platforms. 🙌
 
 ## Contact
 If you want to know more about me or my projects, you can contact me via:
